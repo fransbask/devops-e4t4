@@ -18,4 +18,4 @@ jobs:
       - name: List all files in the repository
         run: |
           echo "The repository ${{ github.repository }} contains the following tree:"
-          ls -R
+          ls -tree
