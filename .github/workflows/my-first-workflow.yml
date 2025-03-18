@@ -1,4 +1,4 @@
-name: My very first workflow
+name: My very first  workflow
 
 on: 
   push:
